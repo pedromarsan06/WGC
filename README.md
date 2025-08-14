@@ -1,0 +1,2 @@
+# WGC
+Web Get Curl
