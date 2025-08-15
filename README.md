@@ -3,7 +3,6 @@ Web Get Curl in Termux
 # Install 👇👇👇
 curl -O "https://pedromarsan06.github.io/WGC/main.py"
 curl -O "https://pedromarsan06.github.io/WGC/install.sh"
-cd WGC
 chmod +x install.sh
 ./install
 
